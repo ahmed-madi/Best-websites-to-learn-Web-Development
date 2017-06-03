@@ -1,4 +1,4 @@
-#Best websites to learn HTML, CSS and Javascript
+# Best websites to learn HTML, CSS and Javascript
 
 There was a time when knowing how to program was for the geekiest of geeks. That’s not exactly the case today. As most entrepreneurs, freelancers and marketers will tell you, learning how to program can help you succeed. Over the past year, I’ve been learning to code. It’s helped me to become a much better entrepreneur — I can dive in when my team needs to fix a few bugs on the site.
 
@@ -6,7 +6,7 @@ You don’t even need to shell out a ton of money or put yourself in debt to lea
 
     “It’s time to step up to the plate and get passionate about your work commit to making eLearning courses that don’t bore people to tears, but instead inspire and motivate them to learn a new skill, change a certain behavior, or improve their performance.” — Cammy Bean 
 
-##1. CodeAcademy
+## 1. CodeAcademy
 
 One of the most popular free places to learn coding is CodeAcademy. In fact, more than 24 million people have already learned how to code through this educational company’s engaging experience. At CodeAcademy, you can dive right in and take courses that teach you everything from HTML & CSS, JavaScript, jQuery, PHP, Python and Ruby.
 
