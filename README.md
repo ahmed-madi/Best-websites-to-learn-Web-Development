@@ -7,8 +7,8 @@ You don’t even need to shell out a ton of money or put yourself in debt to lea
 ```
  “It’s time to step up to the plate and get passionate about your work 
   commit to making eLearningcourses that don’t bore people to tears, but
-  instead inspire and motivate them to learn a new skill, change a certain behavior,
-  or improve their performance.” — Cammy Bean 
+  instead inspire and motivate them to learn a new skill, 
+  change a certain behavior,or improve their performance.” — Cammy Bean 
     
 ```
 ## 1. CodeAcademy
